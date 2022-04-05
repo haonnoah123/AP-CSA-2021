@@ -6,3 +6,12 @@
 ## Hangman
 * Hangman was a really fun project to work on because it could be played once finished. It was a relatively simple challenge, which involved using different classes and objects to code a game of hangman.
 
+## Seating Chart
+* Seating Chart was an FRQ introduced to help challenge and help me learn how to use 2D arrays. It was relatively simple but really helped me advance my FRQ problem solving skills.
+
+## Cookie Canister
+* Cookie Canister was a project introduced to challenge our knowledge on classes and objects. It made my realize how important objects are in Java and helped me learn the syntax behind them.
+
+## Crossword
+* Crossword was another 2D array FRQ which was fun to make as it was another game. It helped me visuallize 2D arrays as a crossword is a well known game.
+
